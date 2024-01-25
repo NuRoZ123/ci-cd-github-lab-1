@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha --recursive ./test"
   },
-  "module": "ES6",
+  "type": "module",
   "author": "",
   "license": "MIT",
   "dependencies": {
